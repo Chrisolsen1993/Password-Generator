@@ -11,6 +11,7 @@ Core skils input:
 
 
 ## Mock-Up
+![](image/03-javascript-homework-demo.png)
 
 
 
