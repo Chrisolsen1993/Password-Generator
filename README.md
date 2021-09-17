@@ -6,13 +6,11 @@ An application that generate random password to the user based on criteria that 
 Core skils input:
 - Checking user choices by confirming what type of character they want in in their password.
 - Concatenation of arrays.
-- Using a loop by sorting through the password lenght they have chosed.
+- Using a loop by sorting through the password length they have chosed.
 
 
 
 ## Mock-Up
-
-
 
 
 
