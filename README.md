@@ -14,9 +14,14 @@ Core skils input:
 ![](image/03-javascript-homework-demo.png)
 
 
+## Link
+* URL of the deployed application.
+https://chrisolsen1993.github.io/Password-Generator/
 
-* The URL of the deployed application.
+*  URL of  GitHub repository
+https://github.com/Chrisolsen1993/Password-Generator
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+## Collaborator
+David dyer
 
 
